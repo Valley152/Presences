@@ -13,17 +13,16 @@
   "logo": "https://cdn.discordapp.com/app-icons/1018020550095945828/8a59598152d073aa53201f0bb43da235.png?size=512",
   "thumbnail": "https://raw.githubusercontent.com/Valley152/MiscellaneousStuff/main/1624293764913ECvugbBcZMECQBfC.jpg",
   "color": "#f37b21",
-  "category": "socials & stream",
+  "category": "socials",
   "regExp": "[a-z0-9.]+lambdageneration.com",
   "tags": [
     "lambda",
     "generation",
     "half-life",
-	"half life",
     "halflife",
     "half",
     "life",
     "lambdageneration",
-    "lambda generation"
+    "lambda-generation"
   ]
 }
